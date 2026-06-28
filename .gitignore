@@ -1,3 +1,7 @@
 *.backup
 *.env
 *.txt
+
+
+*.hi
+*.o
